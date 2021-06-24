@@ -1,0 +1,17 @@
+.container{
+    margin: 2px;
+    border: 10px yellowgreen;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.logout {
+    
+    align-self:start;
+
+}
+
+.home {
+    align-self: flex-end;
+}
