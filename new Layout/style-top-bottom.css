@@ -1,0 +1,25 @@
+.lowerBox{
+    display:flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: center;
+
+}
+.article{
+    width:45%;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom:120px;
+}
+.para{
+    display:flex;
+    align-self: flex-end;
+}
+.ima {
+    width: 200px;
+    height: 300px;
+    object-fit: scale-down;
+  }
+
+  

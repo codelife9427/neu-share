@@ -3,15 +3,7 @@
     border: 10px yellowgreen;
     height: 100%;
     display: flex;
+    flex-direction: column;
     align-items: center;
 }
 
-.logout {
-    
-    align-self:start;
-
-}
-
-.home {
-    align-self: flex-end;
-}

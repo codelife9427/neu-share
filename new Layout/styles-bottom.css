@@ -1,0 +1,29 @@
+.class2 {
+    width:50%;
+    display:flex;
+    flex-wrap:wrap;
+    align-self: center;
+    justify-content:center;
+
+}
+.p1{
+    display: flex;
+    flex-wrap:wrap;
+}
+.class1 {
+    width:auto;
+    display:flex;
+    flex-shrink: 1;
+    flex-direction:column;
+    align-self: center;
+    justify-content:center;
+}
+.i1{
+    display:flex;
+    align-self: center;
+}
+
+.i2{
+    display:flex;
+    align-self: center;
+}
